@@ -11,3 +11,9 @@ ii) The blockchain will be created adding the required blocks after verification
 iii) Then on the election day, the voter from the comfort of his house can caste his vote by logging in to his block after passing the facial recognition test which will can be taken using their camera comparing with our existing database.
 iii) The voter will caste his vote, the data which will be stored in his block and protected after that through specific hashes.
 iv) After all the votes are casted the vote counting can be quickly done as the vote count can be done as its in digital form.
+
+# Benefits:
+i) As the block of a voter is only added after verification, the system cannot be cheated.
+ii) By facial recognition, only the legitimate voter can vote.
+iii) Through the use of blockchain, the security is preserved and no human error can happen as no sole identity is controlling the election.
+iv) Counting is updated instantaneously.
